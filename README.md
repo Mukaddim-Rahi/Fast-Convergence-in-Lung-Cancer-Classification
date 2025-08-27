@@ -43,7 +43,7 @@ python scripts/evaluate.py --model custom_cnn
 ---
 
 ## 📄 Citation
-
+```bash
 @INPROCEEDINGS{11022575,
   author={Bashir, Mariam Binte and Rahi, Abu Mukaddim and Jahan, Md. Khurshid and Al Shafi, Abdullah},
   booktitle={2024 27th International Conference on Computer and Information Technology (ICCIT)}, 
