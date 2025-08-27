@@ -39,4 +39,16 @@ python scripts/train_transformer.py
 
 # Evaluate
 python scripts/evaluate.py --model custom_cnn
+```
+---
 
+## 📄 Citation
+
+@INPROCEEDINGS{11022575,
+  author={Bashir, Mariam Binte and Rahi, Abu Mukaddim and Jahan, Md. Khurshid and Al Shafi, Abdullah},
+  booktitle={2024 27th International Conference on Computer and Information Technology (ICCIT)}, 
+  title={Custom Lightweight CNN and Data-Efficient Models for Efficient and Fast Convergence in Lung Cancer Classification}, 
+  year={2024},
+  pages={477-481},
+  keywords={Deep learning;Analytical models;Accuracy;Sensitivity;Lung cancer;Transformers;Convolutional neural networks;Convergence;Testing;Residual neural networks;Lung Cancer;DeiT;CNN;Machine Learning;Medical Imaging},
+  doi={10.1109/ICCIT64611.2024.11022575}}
